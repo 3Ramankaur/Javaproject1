@@ -22,7 +22,7 @@ public class TestStudent {
      System.out.println("The student list");
      for(int i=0;i<details.length;i++){
          System.out.println(details[i].toString());}
-        //new line added
+        
     }
 
 }
